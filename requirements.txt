@@ -1,0 +1,9 @@
+gunicorn
+scikit-learn
+xgboost
+numpy
+pandas
+requests
+flask
+flask_cors
+imblearn

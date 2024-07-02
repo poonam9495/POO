@@ -1,6 +1,8 @@
 # This is the Thyroid disease detection end to end MLproject.
 
 # First initialize git.
+In that written, ... git init...
+...git pull...
 
 #  This is my First commit:
 
